@@ -1,0 +1,22 @@
+LAPORAN HASIL SCRAPING
+==================================================
+Waktu        : 2026-10-30 22:46:02
+Keyword      : (tanpa filter)
+Total buku   : 30
+Harga rata2  : £37.21
+Harga min    : £12.84
+Harga max    : £57.25
+
+Distribusi rating:
+ - Five: 7 buku
+ - Four: 5 buku
+ - One: 7 buku
+ - Three: 7 buku
+ - Two: 4 buku
+
+5 buku pertama:
+1. A Light in the Attic (£51.77) - Three
+2. Tipping the Velvet (£53.74) - One
+3. Soumission (£50.1) - One
+4. Sharp Objects (£47.82) - Four
+5. Sapiens: A Brief History of Humankind (£54.23) - Five
